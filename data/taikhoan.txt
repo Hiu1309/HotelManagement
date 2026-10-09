@@ -1,0 +1,3 @@
+admin|dgplq456|QUANLY|NV04|true
+letan|456789|LETAN|NV01|true
+ketoan|456789|KETOAN|NV02|true
